@@ -1,4 +1,5 @@
 # 醫療影像 bonus
+https://docs.google.com/presentation/d/19sbsD_2t7-B8Zd-f4vRYfYB1mkfcQC35uxHKW17tPko/edit?usp=sharing
 
 ## 專案介紹
 
